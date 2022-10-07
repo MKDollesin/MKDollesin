@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MKDollesin
 - 👀 I’m interested in learning web development and programming languages
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning html and css,I also do digital arts☺️
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
